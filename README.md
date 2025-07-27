@@ -4,16 +4,6 @@
 
 ### Web Scraping through API Call
 
----
-### 📹 Demo Video
-
-<video src="media/web-scraping-through-API.mov" controls width="600"></video>
-
-> You can click the link above to view the demo video.
-
-
----
-
 #### How to run ?
 
 1. Create python environment and activate
